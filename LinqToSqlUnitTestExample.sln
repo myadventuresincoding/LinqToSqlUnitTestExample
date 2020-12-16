@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToSqlUnitTestExample", "LinqToSqlUnitTestExample\LinqToSqlUnitTestExample.csproj", "{1DC11974-1BCC-450C-AF5E-AC2204FDDFD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToSqlUnitTestExampleTest", "LinqToSqlUnitTestExampleTest\LinqToSqlUnitTestExampleTest.csproj", "{21C23AA8-F2C1-449B-91D5-32D63899AED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DC11974-1BCC-450C-AF5E-AC2204FDDFD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC11974-1BCC-450C-AF5E-AC2204FDDFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC11974-1BCC-450C-AF5E-AC2204FDDFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC11974-1BCC-450C-AF5E-AC2204FDDFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C23AA8-F2C1-449B-91D5-32D63899AED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C23AA8-F2C1-449B-91D5-32D63899AED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C23AA8-F2C1-449B-91D5-32D63899AED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C23AA8-F2C1-449B-91D5-32D63899AED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
